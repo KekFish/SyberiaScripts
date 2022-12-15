@@ -9,7 +9,6 @@ class CfgMods {
 	class SyberiaScripts {
 		type = "mod";
         author = "Terje Broygard";
-        inputs = "SyberiaScripts/inputs/inputs.xml";
 
 		class defs {
 			class gameScriptModule {
